@@ -13,8 +13,8 @@ First-year B.E. Computer Science student at Chennai Institute of Technology (CIT
 -  Python
 -  C++
 -  SQL
--  HTML5
--  CSS3
+-  HTML
+-  CSS
 -  GitHub
 -  VS Code
 

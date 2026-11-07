@@ -4,7 +4,7 @@ First-year B.E. Computer Science student at Chennai Institute of Technology (CIT
 
 ## About me
 - 🌐 I enjoy Web development and design (HTML, CSS)
-- 🧩 Solved 280 LeetCode problems using Python, C++, SQL and still counting
+- 🧩 Solved 285+ LeetCode problems using Python, C++, SQL and still counting
 - 🗄Learning how data works with SQL
 - 📚 Learning in public: I push what I build here as I go
 - 🤝 Always happy to collaborate on beginner-friendly projects

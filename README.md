@@ -22,7 +22,7 @@ First-year B.E. Computer Science student at Chennai Institute of Technology (CIT
 - [Amazon UI Static Replication](https://adarjith2008.github.io/amazon-ui-clone/) – HTML/CSS
 
 ## Goals
--  Reach 100+ LeetCode problems
+-  Reach 1000+ LeetCode problems
 -  Build projects that show off both design and problem-solving
 -  Land internships and top-tier placements
 

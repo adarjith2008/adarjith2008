@@ -28,7 +28,7 @@ First-year B.E. Computer Science student at Chennai Institute of Technology (CIT
 
 ## Contact
 - GitHub: [@adarjith2008](https://github.com/adarjith2008)
-- Linkedin: [A D ARJITH](www.linkedin.com/in/a-d-arjith)
+- Linkedin: [A_D_ARJITH](www.linkedin.com/in/a-d-arjith)
 - Email: arjithad.cse2026@citchennai.net or adarjith2008@gmail.com
 
 - <div align="center"> ⭐"Every expert was once a beginner." ⭐ </div>
